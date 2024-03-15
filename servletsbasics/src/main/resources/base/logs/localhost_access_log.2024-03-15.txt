@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:12:47:09 +0100] "GET /servletsbasics HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:12:47:10 +0100] "GET /servletsbasics/ HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:12:47:13 +0100] "GET /servletsbasics/lol HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:12:47:21 +0100] "GET /servletsbasics/lol HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:12:47:24 +0100] "GET /servletsbasics/lol HTTP/1.1" 404 774

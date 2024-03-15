@@ -1,0 +1,24 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "regex".(ˆ¾äÏÿÿÿÿÿ8áÆä¡ä1
+R
+java:S6035"0Replace this alternation with a character class.(ˆ¾äÏÿÿÿÿÿ8âÆä¡ä1
+W
+java:S6353"5Use concise quantifier syntax '?' instead of '{0,1}'.(ˆ¾äÏÿÿÿÿÿ8âÆä¡ä1
+L
+java:S1481"*Remove this unused "regex" local variable.(ˆ¾äÏÿÿÿÿÿ8ãÆä¡ä1
+L	java:S106"+Replace this use of System.out by a logger.(£õò×ıÿÿÿÿ8ãÆä¡ä1
+R
+java:S6035"0Replace this alternation with a character class.(£õò×ıÿÿÿÿ8‰òè¡ä1
+W
+java:S6353"5Use concise quantifier syntax '?' instead of '{0,1}'.(£õò×ıÿÿÿÿ8‰òè¡ä1
+T
+java:S1128"7Remove this unused import 'org.joda.time.DateTimeZone'.(á¹ı½8Šòè¡ä1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8Šòè¡ä1
+J
+java:S1128"-Remove this unused import 'java.time.ZoneId'.( Æ½“8Šòè¡ä1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8Šòè¡ä1
+Q
+java:S1128	"/Remove this unused import 'java.util.TimeZone'.(à‡Õùÿÿÿÿ8Šòè¡ä1
