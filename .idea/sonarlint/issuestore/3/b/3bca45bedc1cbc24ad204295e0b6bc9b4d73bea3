@@ -1,0 +1,5 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ñ©Âî8àž§™å1
+N
+java:S1874",Remove this use of "exec"; it is deprecated.(²‰ªŽÿÿÿÿÿ8ƒŸ§™å1
+L	java:S106"+Replace this use of System.out by a logger.(ÎÉŸ‰ùÿÿÿÿ8Ý„ª™å1
